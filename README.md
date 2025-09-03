@@ -1,29 +1,29 @@
 # Solidity Learning 🚀  
 
-This repository documents my journey learning **Solidity** and **Smart Contracts**.  
-Each folder contains a small project or exercise with its own contract.  
+Este repositorio documenta mi camino aprendiendo **Solidity** y el desarrollo de **Smart Contracts**.  
+Cada carpeta contiene un proyecto o ejercicio independiente con su contrato y su propia documentación.  
 
 ---
 
-## 📂 Projects  
+## 📂 Proyectos  
 
-- **01_HelloWorld** → First contract that returns a simple message.  
-- **02_SimpleStorage** → Store and retrieve a number.  
-- **03_Token** → Basic ERC20-like token.  
-
----
-
-## 🎯 Goal  
-
-Learn step by step, practice with Remix, and keep track of my progress as a blockchain developer.  
+- **01_HelloWorld** → Primer contrato que devuelve un mensaje simple.  
+- **02_TestKeccak** → Uso de `keccak256` para generar y comparar hashes de strings.  
+- **03_Token** → Token básico inspirado en ERC20. *(pendiente)*  
 
 ---
 
-## 🛠 Tools  
+## 🎯 Objetivo  
+
+Aprender paso a paso, practicar con **Remix** y llevar un registro de mi progreso como desarrollador blockchain.  
+
+---
+
+## 🛠 Herramientas  
 
 - [Remix IDE](https://remix.ethereum.org/)  
-- [Solidity Documentation](https://docs.soliditylang.org/)  
+- [Documentación oficial de Solidity](https://docs.soliditylang.org/)  
 
 ---
 
-✍️ Author: [Ferrancgg](https://github.com/Ferrancgg)  
+✍️ **Autor:** [Ferrancgg](https://github.com/Ferrancgg)  
